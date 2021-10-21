@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SaiManoj-git
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning AI,Python,C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email => manojgh42@gmail.com
                        Linkedin => https://www.linkedin.com/in/sai-manoj-612175210
 
